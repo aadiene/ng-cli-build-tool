@@ -1,2 +1,2 @@
 # ng-cli-build-tool
-Build image (johnpapa/angular-cli) with Docker for build purpose
+Extended image from **(johnpapa/angular-cli)** with extra docker commands for build purpose
